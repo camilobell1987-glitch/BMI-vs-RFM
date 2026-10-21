@@ -1,4 +1,4 @@
-# BMI-vs-RFM
+# BMI-vs-RFM fat depo correlations explanation
 RFM vs BMI paper statistics and code
 This script is doing a statistical comparison of how strongly two predictors — RFM and BMI — correlate with several fat depots, separately for men and women.
 # Fat depo correlations
